@@ -1,19 +1,24 @@
-Ğ¡±àÕûÀíµÄÊéÔ´
+å°ç¼–æ•´ç†çš„ä¹¦æº
 
+34ä¸ªä¹¦æº
+https://github.com/aikankankanhhh998/shuxiangzhijiayuan/blob/main/All.json
 
-2666¸öÊéÔ´
+230ä¸ªè®¢é˜…æº
+https://github.com/aikankankanhhh998/shuxiangyuedudingyueyuan/raw/main/dingyueyuan.json
+
+2666ä¸ªä¹¦æº
 http://yuedu.miaogongzi.site/shuyuan/2666shuyuan.json
 
-2916¸öÊéÔ´
+2916ä¸ªä¹¦æº
 http://yuedu.miaogongzi.site/shuyuan/2916shuyuan.json
 
-28¸öÊéÔ´
+28ä¸ªä¹¦æº
 https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json
 
-308¸öÊéÔ´
+308ä¸ªä¹¦æº
 http://shuyuan.miaogongzi.site/shuyuan/1614645247.json
 
-8¸öÊéÔ´
+8ä¸ªä¹¦æº
 http://no-mystery.gitee.io/shuyuan/%E7%B2%BE%E6%A0%A1%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json
 
 https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@1.1/202003.txt
